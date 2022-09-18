@@ -1,0 +1,17 @@
+.calculator {
+    text-align: center;
+    border-style: double;
+    padding-bottom: 2%;
+}
+
+.calc-header-contain {
+    font-style: italic;
+}
+
+.output-container {
+    padding: 1%;
+}
+
+.result {
+    border-style: solid;
+}
